@@ -1,3 +1,4 @@
+//Creating a Hollow inverted pyramid using  nested loops
 import java.util.*;
 public class pat16 {
     public static void main(String[] args) {
